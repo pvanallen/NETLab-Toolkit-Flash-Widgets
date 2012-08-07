@@ -1,0 +1,9 @@
+*.swf
+*.png
+*.jpg
+*.xml
+*.txt
+*.flv
+*.csv
+.afpDeleted*
+.DS_Store

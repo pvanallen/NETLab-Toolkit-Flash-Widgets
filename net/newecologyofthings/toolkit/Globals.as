@@ -1,0 +1,1 @@
+﻿package net.newecologyofthings.toolkit {    public class Globals {        public static var vars:Object = [];    }}
